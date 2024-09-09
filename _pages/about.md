@@ -1,49 +1,99 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zahin Ahmed - Neuromorphic Computing and NeuroAI Researcher"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my personal academic website! I am **Zahin Ahmed**, currently a **first-year PhD student** at *The George Washington University*, specializing in **Neuromorphic Computing** and **NeuroAI** under the supervision of Prof. Gina Adam. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+With a background in Computer Science and Engineering (CSE), I graduated *summa cum laude* from *North South University* with a **CGPA of 3.98/4.00**, where I ranked in the top 0.2% of my class. My research interests are focused on exploring the intersection of artificial intelligence, neuromorphic systems, and machine learning.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+### Education
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **PhD in Computer Engineering**  
+  The George Washington University  
+  **Aug 2024 - Present**  
+  Focus: Neuromorphic Computing, NeuroAI  
+  *Advisor: Prof. Gina Adam*  
+  Expected Completion: 2029
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **BS in Computer Science and Engineering**  
+  North South University  
+  **Jan 2017 - Dec 2020**  
+  Thesis: *Unsupervised learning-based characteristics analysis of Graph networks*  
+  Highest CGPA in School of Physical Sciences and Engineering, Academic Year 2020
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### Research Experience
 
-**Markdown generator**
+- **Graduate Research Assistant**  
+  *The George Washington University*  
+  **Sep 2024 - Present**  
+  Project: Neurogenesis-Inspired Networks
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- **Research Assistant**  
+  *North South University*  
+  **Nov 2020 - Jun 2021**  
+  Project: Biomedical Semantic Segmentation
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- **Unsupervised Learning for Graph Networks**  
+  *North South University*  
+  **Apr 2020 - Apr 2021**  
+  Applied centrality metrics and spectral clustering for high-dimensional clusters.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- **Biomedical Image Segmentation Using Deep Learning**  
+  *North South University*  
+  **Jan 2020 - Jun 2021**
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### Teaching Experience
+
+- **Lecturer (On Leave)**  
+  *BRAC University*  
+  **Jun 2022 - Present** (Full-time)  
+  **Jun 2021 - May 2022** (Contractual)  
+  Taught: Algorithms, Discrete Mathematics, Data Structures, Automata and Computability, and more.
+
+- **Teaching Assistant**  
+  *North South University*  
+  **Sep 2020 - May 2021**  
+  Assisted with: Computer Organization, Design and Analysis of Algorithms, and Bioinformatics.
+
+### Publications
+
+- **Z. Ahmed**, F. J. Kinjol, I. J. Ananya, "Comparative Analysis of Six Programming Languages Based on Readability, Writability, and Reliability," *2021 International Conference on Computer and Information Technology (ICCIT)*.  
+  [DOI: 10.1109/ICCIT54785.2021.9689813](https://ieeexplore.ieee.org/document/9689813)
+
+### Technical Skills
+
+- **Languages**: R, Python, Matlab, Java, C/C++, HTML/CSS, PHP, JavaScript, SQL  
+- **Technologies**: TensorFlow, PyTorch, Keras, Django, Laravel, Git, Linux  
+- **Tools**: Adobe Illustrator, Photoshop, Figma, Visio
+
+### Notable Projects
+
+- **MENUWHIZ**  
+  A real-time restaurant menu app using NFC technology for Android.  
+  Tech: Java, Android Studio, Django, MySQL.
+
+- **DREAMERS**  
+  A web app for travelers to view hotel prices and flight information.  
+  Tech: Laravel, SQL, HTML, CSS.
+
+- **Line Follower Robot**  
+  Constructed a robot using Raspberry Pi for line following and obstacle detection.  
+  Tech: Raspberry Pi, IR Sensors, Sonar Sensors.
+
+### Achievements
+
+- Gold medalist, Batch of 2016, Mastermind English Medium School.  
+- Edexcel High Achiever’s Award in IGCSE and GCE A Levels.
+
+### Hobbies and Extracurriculars
+
+- Former President, *Mastermind Community Service Club*.  
+- In-Charge of Publications, *NSU ACM Student Chapter*.  
+- Hobbies: Table Tennis, Gaming, Painting, Community Service.
+
+For more details on my work and projects, feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/zahin-ahmed97) or check out my [GitHub](https://github.com/zahinahmed97).
