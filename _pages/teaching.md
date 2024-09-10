@@ -25,7 +25,3 @@ During my time as a **Teaching Assistant** in the Department of Electrical and C
 - **Introduction to Bioinformatics**
 
 As a TA, I guided students through complex topics, helped clarify concepts during office hours, and evaluated assignments and exams. This experience greatly enriched my understanding of teaching and the academic learning process.
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
