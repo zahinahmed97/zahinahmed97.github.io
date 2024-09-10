@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Lecturer - BRAC University (June 2021 - Present)
+### Lecturer - BRAC University (June 2021 - Present) (On - Leave)
 As a **Lecturer** in the Department of Computer Science and Engineering (CSE) at *BRAC University*, I have taken on multiple responsibilities including conducting courses, mentoring students, supervising theses, and leading student clubs. My teaching portfolio includes a variety of core courses such as:
 - **Algorithms**
 - **Discrete Mathematics**
