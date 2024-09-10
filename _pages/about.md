@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal academic website! I am **Zahin Ahmed**, currently a **first-year PhD student** at *The George Washington University*, specializing in **Neuromorphic Computing** and **NeuroAI** under the supervision of Prof. Gina Adam. 
+Welcome to my personal academic website! I am **Zahin Ahmed**, currently a **first-year PhD student** at *The George Washington University*, currently enrolled in the **High Performance Computing** and **Computer Architecture** research focus under the supervision of Prof. Gina Adam. 
 
-With a background in Computer Science and Engineering (CSE), I graduated *summa cum laude* from *North South University* with a **CGPA of 3.98/4.00**, where I ranked in the top 0.2% of my class. My research interests are focused on exploring the intersection of artificial intelligence, neuromorphic systems, and machine learning.
+With a background in Computer Science and Engineering (CSE), I graduated *summa cum laude* from *North South University* with a **CGPA of 3.98/4.00**, which was the **highest CGPA** in the *School of Engineering and Physical Sciences*. My research interests are focused on exploring the intersection of artificial intelligence, neuromorphic systems, and machine learning.
 
 ### Education
 
